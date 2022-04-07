@@ -14,8 +14,8 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route exact path="/" element={<Boost />} />
-        <Route exact path="/prices" element={<ChangePrices />} />
+        <Route exact path="/dota2-boost-calc/" element={<Boost />} />
+        <Route exact path="dota2-boost-calc/prices" element={<ChangePrices />} />
         {/* <Route path="*" element={<NotFound/>}/> */}
       </Routes>
 
