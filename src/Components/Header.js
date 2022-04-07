@@ -14,10 +14,10 @@ const Header = () => {
     }
     return (
         <Segment textAlign='center' color="purple" style={segmentStyle}>
-            <Link to="/">
+            <Link to="/dota2-boost-calc/">
                 <Button color='purple' size='small'>Буст</Button>
             </Link>
-            <Link to="/prices">
+            <Link to="/dota2-boost-calc/prices">
                 <Button color='purple' size='small'>Изменить цену</Button>
             </Link>
 
