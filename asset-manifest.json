@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/dota2-boost-calc/static/css/main.edc2fdbc.css",
-    "main.js": "/dota2-boost-calc/static/js/main.0330a68a.js",
+    "main.js": "/dota2-boost-calc/static/js/main.5b58cc56.js",
     "index.html": "/dota2-boost-calc/index.html",
     "main.edc2fdbc.css.map": "/dota2-boost-calc/static/css/main.edc2fdbc.css.map",
-    "main.0330a68a.js.map": "/dota2-boost-calc/static/js/main.0330a68a.js.map"
+    "main.5b58cc56.js.map": "/dota2-boost-calc/static/js/main.5b58cc56.js.map"
   },
   "entrypoints": [
     "static/css/main.edc2fdbc.css",
-    "static/js/main.0330a68a.js"
+    "static/js/main.5b58cc56.js"
   ]
 }
