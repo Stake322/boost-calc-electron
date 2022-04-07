@@ -1,3 +1,6 @@
+# Link to check
+https://stake322.github.io/dota2-boost-calc/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
