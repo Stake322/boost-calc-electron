@@ -65,10 +65,10 @@ export const ChangePrices = () => {
                     <GridColumn>
                         <InputButton label='5000-5500 MMR' price={MMR7} setMMR={setMMR7} />
                         <InputButton label='5500-6000 MMR' price={MMR8} setMMR={setMMR8} />
-                        <InputButton label='6500-7000 MMR' price={MMR9} setMMR={setMMR9} />
+                        <InputButton label='6000-6500 MMR' price={MMR9} setMMR={setMMR9} />
                     </GridColumn>
                 </Grid>
-                <InputButton label='7000-7500 MMR' price={MMR10} setMMR={setMMR10} />
+                <InputButton label='7000+++' price={MMR10} setMMR={setMMR10} />
 
             </Container>
             <Divider />
